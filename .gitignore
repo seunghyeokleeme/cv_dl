@@ -230,3 +230,5 @@ $RECYCLE.BIN/
 # src
 *.jpg
 *.png
+data/
+runs/
